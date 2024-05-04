@@ -39,8 +39,7 @@ This project aims to create a Question and Answer (QA) similarity search applica
 
 ## Contributors
 
-- John Doe (@john_doe)
-- Jane Smith (@jane_smith)
+- Muhammad Suleman (@skylinestorytel)
 
 ## License
 
